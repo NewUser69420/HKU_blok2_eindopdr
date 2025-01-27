@@ -1,0 +1,8 @@
+﻿  main.cpp
+D:\game projects\GameDeving with C++\HKU_Dev_blok2\HKU_Dev_blok2\main.cpp(60,37): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  1 of 271 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  HKU_Dev_blok2.vcxproj -> D:\game projects\GameDeving with C++\HKU_Dev_blok2\x64\Release\HKU_Dev_blok2.exe
